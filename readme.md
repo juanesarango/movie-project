@@ -3,6 +3,8 @@
 This project aims to create a web page where visitors can review their movies and watch the trailers.
 This project contains 3 files:
 
+![Example View](https://cloud.githubusercontent.com/assets/7906289/18764760/800d0720-80d8-11e6-9bdf-42cc416d5732.png)
+
 ## Contains 
 
 - `media.py` this is the module where the Movie() class is created.
