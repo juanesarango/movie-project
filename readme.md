@@ -11,17 +11,20 @@ This project contains 3 files:
 
 ## Usage
 
-To run the project run the file 
-``` run entertaiment_server.py ```.
+To run the project: 
+```
+run entertaiment_server.py
+```
 
 To add a movie edit this file and add a movie object to the movies array:
 
-```newMovie = media.Movie(title, 
-                          storyline, 
-                          poster_image_url, 
-                          trailer_video_url)
+```
+newMovie = media.Movie(title, 
+                       storyline, 
+                       poster_image_url, 
+                       trailer_video_url)
 
-   movies.append(newMovie)
+movies.append(newMovie)
 ``` 
 
 ## Author
